@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH04求闰年", "CH04求闰年\CH04求闰年.vcxproj", "{DBA26BF0-7C4D-42F6-959B-6E01D681FBB0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH04成绩分类", "..\CH04成绩分类\CH04成绩分类.vcxproj", "{4CEB978D-5437-470D-A514-10BB4FC0A752}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH04switch语句的应用", "..\CH04switch语句的应用\CH04switch语句的应用.vcxproj", "{0DC94544-8496-448C-B74C-032A9CCE0BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA26BF0-7C4D-42F6-959B-6E01D681FBB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBA26BF0-7C4D-42F6-959B-6E01D681FBB0}.Debug|Win32.Build.0 = Debug|Win32
+		{DBA26BF0-7C4D-42F6-959B-6E01D681FBB0}.Release|Win32.ActiveCfg = Release|Win32
+		{DBA26BF0-7C4D-42F6-959B-6E01D681FBB0}.Release|Win32.Build.0 = Release|Win32
+		{4CEB978D-5437-470D-A514-10BB4FC0A752}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4CEB978D-5437-470D-A514-10BB4FC0A752}.Debug|Win32.Build.0 = Debug|Win32
+		{4CEB978D-5437-470D-A514-10BB4FC0A752}.Release|Win32.ActiveCfg = Release|Win32
+		{4CEB978D-5437-470D-A514-10BB4FC0A752}.Release|Win32.Build.0 = Release|Win32
+		{0DC94544-8496-448C-B74C-032A9CCE0BBA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0DC94544-8496-448C-B74C-032A9CCE0BBA}.Debug|Win32.Build.0 = Debug|Win32
+		{0DC94544-8496-448C-B74C-032A9CCE0BBA}.Release|Win32.ActiveCfg = Release|Win32
+		{0DC94544-8496-448C-B74C-032A9CCE0BBA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
