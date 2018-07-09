@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH05求1到100的和", "CH05求1到100的和\CH05求1到100的和.vcxproj", "{E468FEAA-731E-4BB6-89AE-6FF526E33882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E468FEAA-731E-4BB6-89AE-6FF526E33882}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E468FEAA-731E-4BB6-89AE-6FF526E33882}.Debug|Win32.Build.0 = Debug|Win32
+		{E468FEAA-731E-4BB6-89AE-6FF526E33882}.Release|Win32.ActiveCfg = Release|Win32
+		{E468FEAA-731E-4BB6-89AE-6FF526E33882}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

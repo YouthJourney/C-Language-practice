@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH05捐款", "CH05捐款\CH05捐款.vcxproj", "{9CECF85F-394D-4288-9DFD-256C70835576}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH05Fibonacci", "CH05Fibonacci\CH05Fibonacci.vcxproj", "{1DCBA296-0DB4-4E22-923E-C810D70658C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH05判断一个数为素数", "CH05判断一个数为素数\CH05判断一个数为素数.vcxproj", "{99FB2F4B-9D96-435C-ACE4-C8D0776C0C11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH05求100到200间的素数", "CH05求100到200间的素数\CH05求100到200间的素数.vcxproj", "{6F8FB322-FE51-4584-AD89-C5EE01BA1B3D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH05译密码", "CH05译密码\CH05译密码.vcxproj", "{B1F38310-B135-44FF-BE97-8F0DCA186C22}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CH05求pi的近似值", "CH05求pi的近似值\CH05求pi的近似值.vcxproj", "{A675DB54-E72B-4741-9835-ADE125942A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CECF85F-394D-4288-9DFD-256C70835576}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9CECF85F-394D-4288-9DFD-256C70835576}.Debug|Win32.Build.0 = Debug|Win32
+		{9CECF85F-394D-4288-9DFD-256C70835576}.Release|Win32.ActiveCfg = Release|Win32
+		{9CECF85F-394D-4288-9DFD-256C70835576}.Release|Win32.Build.0 = Release|Win32
+		{1DCBA296-0DB4-4E22-923E-C810D70658C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1DCBA296-0DB4-4E22-923E-C810D70658C4}.Debug|Win32.Build.0 = Debug|Win32
+		{1DCBA296-0DB4-4E22-923E-C810D70658C4}.Release|Win32.ActiveCfg = Release|Win32
+		{1DCBA296-0DB4-4E22-923E-C810D70658C4}.Release|Win32.Build.0 = Release|Win32
+		{99FB2F4B-9D96-435C-ACE4-C8D0776C0C11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99FB2F4B-9D96-435C-ACE4-C8D0776C0C11}.Debug|Win32.Build.0 = Debug|Win32
+		{99FB2F4B-9D96-435C-ACE4-C8D0776C0C11}.Release|Win32.ActiveCfg = Release|Win32
+		{99FB2F4B-9D96-435C-ACE4-C8D0776C0C11}.Release|Win32.Build.0 = Release|Win32
+		{6F8FB322-FE51-4584-AD89-C5EE01BA1B3D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F8FB322-FE51-4584-AD89-C5EE01BA1B3D}.Debug|Win32.Build.0 = Debug|Win32
+		{6F8FB322-FE51-4584-AD89-C5EE01BA1B3D}.Release|Win32.ActiveCfg = Release|Win32
+		{6F8FB322-FE51-4584-AD89-C5EE01BA1B3D}.Release|Win32.Build.0 = Release|Win32
+		{B1F38310-B135-44FF-BE97-8F0DCA186C22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1F38310-B135-44FF-BE97-8F0DCA186C22}.Debug|Win32.Build.0 = Debug|Win32
+		{B1F38310-B135-44FF-BE97-8F0DCA186C22}.Release|Win32.ActiveCfg = Release|Win32
+		{B1F38310-B135-44FF-BE97-8F0DCA186C22}.Release|Win32.Build.0 = Release|Win32
+		{A675DB54-E72B-4741-9835-ADE125942A76}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A675DB54-E72B-4741-9835-ADE125942A76}.Debug|Win32.Build.0 = Debug|Win32
+		{A675DB54-E72B-4741-9835-ADE125942A76}.Release|Win32.ActiveCfg = Release|Win32
+		{A675DB54-E72B-4741-9835-ADE125942A76}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
