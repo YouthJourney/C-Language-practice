@@ -1,2 +1,2 @@
 # C-Language-practice
-just for study
+just for C language test
